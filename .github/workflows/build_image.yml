@@ -29,4 +29,4 @@ jobs:
         with:
           push: true
           tags: |
-            ghcr.io/cloudrickshaw/xk6-output-prometheus-remote:latest
+            ghcr.io/cloudrickshaw/xk6-output-influxdb:latest
